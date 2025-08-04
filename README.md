@@ -1,2 +1,2 @@
 # Mehari2121
-Develop health related software
+beginners Develop health related software
